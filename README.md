@@ -2,7 +2,7 @@
 
 ## Skills
 
-<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-F48E00?style=flat&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-F48E00?style=flat&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-F48E00?style=flat&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F48E00?style=flat&logo=Swift&logoColor=white"/>
 
 
 ## Artificial Intelligence
