@@ -15,7 +15,7 @@
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keon22han&layout=compact)-->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/keonheehan/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=keonheehan)](https://solved.ac/keonheehan/)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=50ABF1&height=100&section=footer)
